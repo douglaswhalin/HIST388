@@ -1,0 +1,292 @@
+---
+title: "Work-in-Progress: Eastern Romanness, circa 640-840"
+subtitle: "University of Tübingen, Center for Advanced Studies <br> Migration and Mobility in Late Antiquity and the Early Middle Ages"
+author: "Douglas Whalin, PhD </br>21 February 2020 </br>[douglaswhalin.github.io/talks/MandM.html](douglaswhalin.github.io/talks/MandM.html)"
+output: 
+  ioslides_presentation:
+        css: jobtalk.css
+        widescreen: true
+        fig_caption: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, cache=T, fig.align='center')
+```
+
+## About me
+
+<div class="leftcolumn">
+
+- Social historian
+
+- PhD, Queens' College, University of Cambridge, 2016
+
+- **Other Research interests**:
+    - Greek, Coptic & Syriac literature
+    - Mountains in Late Antiquity
+    - Landscape, travelogues, and historical memory
+    - Military history (Constans II)
+
+</div>
+
+<div class="moveright" style="top:50%;">
+
+  ![](DSC06471.png)
+
+</div>
+
+## Outline
+
+### Introduce work
+
+<br>
+
+### Chapter: Romans = Christians
+
+<br>
+
+### Chapter: Gender and Romanness
+
+<br>
+
+### Summary
+
+***
+*Roman Identity in Transition from the Arab Conquests to the Triumph of Orthodoxy*
+
+<div class="moveright" style="top: 55%; left:50%">
+```{r}
+knitr::include_graphics("Eirene.png",dpi=100)
+```
+
+</div>
+
+## Why am I in Tübingen?
+
+### Revise thesis for publication
+
+- Update literature
+- Add sources
+
+### Expand coverage
+
+- Romanness and Christianness
+- Romanness and gender
+
+***
+
+<div class="leftcolumn" style="top:80%;">
+
+![](BL_ADD_MS_17474_fol_216r.png)
+
+<div class="myfooter">
+
+*Acts of the Quinsext Council (AD 692), British Library ADD MS 17474 fol. 216r*
+
+</div>
+</div>
+
+<div class="rightcolumn">
+
+### **Chapter: Roman = Christian**
+
+**Constantinople**
+
+- 'Orthodoxy' of the Imperial Church
+
+**Levant**
+
+- Schism over Chalcedon
+
+**Italy**
+
+- Attempted monopolisation of the label 'Roman'
+
+</div>
+
+## Christianness in Constantinople
+
+<div class="leftcolumn">
+
+**Monothelitism**
+
+- 638 - 681, 712 - 715
+
+**Iconoclasm**
+
+- *circa* 730 - 787, 814 - 843
+
+**Historical embarassment?**
+
+</div>
+
+<div class="rightcolumn">
+
+![](Clasm_Chludov_detail_9th_century.jpg)
+
+<div class="myfooter">
+
+*Miniature from the Chludov Psalter,* circa *c9, depicting 'eikonomachoi'*
+
+</div>
+</div>
+
+## Christianness the Levant
+
+### Miaphysites
+- Chalcedonians = Romans = Greeks
+
+### Chalcedonians
+- Political subjects of the Caliphate, potential for ERE reconquest
+
+### Influence of 'eastern source'
+
+## Christianness in Italy
+
+<div class="leftcolumn">
+
+### Empire-Romanness
+- *res publica Romanorum*
+- Romagna / Lombardia
+
+### City-Romanness
+- 'natural' identity
+- synecdoche: leadership, policy
+
+### Problematic regions
+- Sicily, Apulia and Calabria
+- Dalmatia, Africa
+
+</div>
+
+<div class="rightcolumn">
+
+![](Ravenna.png)
+<div class="myfooter">
+
+*Commemorating the brief autocephaly of Ravenna under Constans II*
+
+</div>
+</div>
+
+## Discussion: Christians and barbarians
+
+### Rhetorical confrontations
+- Bulgarians
+- *Dhimmi* communities
+- Charlemagne
+
+### Identity as a function of what-it-is-not
+- If Roman = Orthodox, then Heretic = Barbarian
+
+## Chapter: Gendered Romanness
+
+<div class="leftcolumn">
+
+### Interaction between layers of identity
+
+<br>
+
+**Existing: social roles available for women**
+
+- Domesticity
+- Asceticism
+
+**Expand**
+
+- legal status and protections?
+
+</div>
+
+<div class="rightcolumn">
+
+![](Irene_follis.jpg)
+*Eirene: an exemplar of Orthodoxy, less so of motherly love*
+
+</div>
+## Goals in Tübingen: Summary
+
+### Revise and update thesis
+
+<br>
+
+### Chapter: Romans = Christians
+
+<br>
+
+### Chapter: Roman women
+
+***
+
+<div class="moveright" style="left:50%;top:50%;">
+
+### **Thank you!**
+
+***
+
+## How to define a contested term?
+
+<div class="leftcolumn">
+
+### Romanness: one of many ID layers
+- Not always significant or meaningful
+
+<br>
+<br>
+
+### Negotiation process
+- Imprecise taxonomy
+- Multiple contexts
+
+</div>
+
+<div class="moveright" style="top:50%;">
+
+  ![](levels_of_negotiation2.png)
+
+<div class="myfooter">
+
+*Intermediary sources? Audience? Translators?*
+
+</div>
+</div>
+
+## The many meanings of Romanness
+
+<div class="leftcolumn">
+
+- Not a barbarian
+- Citizen of *res publica Romanorum*
+- Loyalty to the Emperor
+- Legal rights/status
+    - Peasantry  >> *Rhomanoi* in c10 Dalmatia
+    - Lawfulness >> People of Law >> Old Testament parallels >> Chosen people
+- Language (Latin, later Greek)
+    - Further complication: Greek = Hellene = 'pagan'
+
+</div>
+
+<div class="rightcolumn">
+
+- Christian
+- Elite paideia
+- Patterns fostered by the built environment
+- Geography / place of origin
+    - *urbs Roma*
+    - *Rhomania* >> Romagna / Lombardy
+
+</div>
+
+## The trial of Maximus the Confessor in 653
+
+[Maximus stood] in the middle of the officials, who were seated, and the sakellarios said to him with great anger and frenzy: ‘Are you a Christian [Χριστιανὸς εἶ]?’
+
+And [Maximus] said: ‘By the grace of Christ, God of all, I am a Christian.’
+
+And the sakellarios said: ‘That’s not true.’
+
+The servant of God answered: ‘You say I’m not, but God says that I am, and will remain a Christian.’
+
+‘And how,’ he said, ‘if you are a Christian, can you hate the emperor?’
+
+*Relatio Motionis*, §1.8-16, transl. Allen and Neal (2002), 49.
